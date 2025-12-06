@@ -39,7 +39,9 @@ Seguridad y autenticación avanzada (Keycloak, JWT).
 Este sistema nace como una propuesta de mejora para la red Inmax de Aloxentric, como parte de un proyecto universitario con proyección a desarrollo real. Su objetivo es optimizar el proceso de publicación, seguimiento y análisis de campañas publicitarias dentro de la red.
 
 🧑‍💻 Equipo
-👨‍💻 Jorge Morris – Jefe de Proyecto
-💡 + Integrantes (agrega los nombres)
+👨‍💻 Diego Fariña – Jefe de Proyecto
+👨‍💻 Martín Albizú – Investigador
+👨‍💻 Nicolas Catro – Documentador
+👨‍💻 Nicolas Gonzales – Analista
 📜 Licencia
 MIT © 2025
